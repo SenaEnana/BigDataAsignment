@@ -81,5 +81,5 @@ Predict the likelihood of cancellation for new bookings based on lead time, book
 Identify high-risk periods or months with increased cancellation rates for proactive management. <br>
 Build predictive models to forecast the cancellation rate for specific customer segments or hotels. <br>
 
-#### Sena Adane
+#### By Sena Adane
 #### Id no 1533/12
